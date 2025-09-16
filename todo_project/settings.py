@@ -155,11 +155,11 @@ SIMPLE_JWT = {
 
 
 # Production
-'''
+
 CORS_ALLOWED_ORIGINS = [
     "https://todo-frontend-redrf.vercel.app"
 ]
-'''
+
 
 
 # Custom user model (if extended)
