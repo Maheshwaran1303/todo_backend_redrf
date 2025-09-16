@@ -157,7 +157,7 @@ SIMPLE_JWT = {
 # Production
 '''
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173"
+    "https://todo-frontend-redrf.vercel.app"
 ]
 '''
 
